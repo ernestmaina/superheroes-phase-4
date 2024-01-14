@@ -1,0 +1,498 @@
+2023-09-13 06:50:02.978 [info] Extension host with pid 1834 started
+2023-09-13 06:50:02.984 [error] Error: EEXIST: file already exists, open '/home/maina/.vscode-server/data/User/workspaceStorage/1987ce79cd8adb9638f94565be064c25/vscode.lock'
+2023-09-13 06:50:03.027 [info] Lock '/home/maina/.vscode-server/data/User/workspaceStorage/1987ce79cd8adb9638f94565be064c25/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-09-13 06:50:03.042 [info] Lock '/home/maina/.vscode-server/data/User/workspaceStorage/1987ce79cd8adb9638f94565be064c25/vscode.lock': The lockfile is scheduled to have been released.
+2023-09-13 06:50:03.042 [info] Lock '/home/maina/.vscode-server/data/User/workspaceStorage/1987ce79cd8adb9638f94565be064c25/vscode.lock': Deleting a stale lock.
+2023-09-13 06:50:03.202 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-13 06:50:03.214 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-09-13 06:50:03.414 [info] Lock '/home/maina/.vscode-server/data/User/workspaceStorage/1987ce79cd8adb9638f94565be064c25/vscode.lock': Lock acquired.
+2023-09-13 06:50:04.055 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-13 06:50:04.055 [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: true, activationEvent: '*'
+2023-09-13 06:50:04.144 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-13 06:50:04.145 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-13 06:50:04.397 [info] Eager extensions activated
+2023-09-13 06:50:04.397 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-13 06:50:04.397 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-13 06:50:04.397 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-09-13 06:50:04.398 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-09-13 06:50:04.608 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-13 06:50:04.608 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-13 06:50:06.654 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9099
+2023-09-13 06:50:10.413 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:50:16.311 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:50:21.740 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:50:27.106 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:50:32.403 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:50:34.950 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2023-09-13 06:50:34.951 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:chrome'
+2023-09-13 06:50:35.487 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-09-13 06:50:42.863 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:50:48.238 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:50:53.679 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:51:00.869 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:51:06.196 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:51:11.546 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:51:16.858 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:51:22.218 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:51:27.590 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:51:32.979 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:51:38.307 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:51:43.709 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:51:49.024 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:51:54.386 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:52:00.884 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:52:06.200 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:52:11.498 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:52:16.779 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:52:22.076 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:52:27.372 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:52:32.672 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:52:37.986 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:52:43.316 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:52:48.629 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:52:53.928 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:52:59.256 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:53:04.606 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:53:09.936 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9101
+2023-09-13 06:53:23.475 [info] Extension host terminating: received terminate message from renderer
+2023-09-13 06:53:23.476 [info] Lock '/home/maina/.vscode-server/data/User/workspaceStorage/1987ce79cd8adb9638f94565be064c25/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-09-13 06:53:23.612 [error] Canceled: Canceled
+	at new h (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:57382)
+	at i.O (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:8289)
+	at r.g (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82208)
+	at r.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at u.registerCommand.description (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:80967)
+	at r.h (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82744)
+	at r.g (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81739)
+	at r.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at Object.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:21247)
+	at n.D [as value] (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1309000)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1324784)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3484)
+	at E.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at E.<anonymous> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at k (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:9652)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7585
+	at Array.map (<anonymous>)
+	at n.S (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7572)
+	at n.terminate (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7844)
+	at o.terminate (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:1513)
+	at D (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:9800)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:7847)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at v.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:13940)
+	at s.z (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:17005)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:15457)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at n.acceptChunk (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11714)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11001)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at m.u (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:19093)
+	at m.acceptFrame (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:18899)
+	at a.l (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:17532)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:14879
+	at Socket.p (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:12793)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-09-13 06:53:23.613 [error] Canceled: Canceled
+	at new h (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:57382)
+	at i.O (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:8289)
+	at r.g (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82208)
+	at r.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at u.registerCommand.description (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:80967)
+	at r.h (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82744)
+	at r.g (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81739)
+	at r.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at Object.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:21247)
+	at n.D [as value] (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1309000)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1324784)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3484)
+	at E.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at E.<anonymous> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at k (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:9652)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7585
+	at Array.map (<anonymous>)
+	at n.S (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7572)
+	at n.terminate (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7844)
+	at o.terminate (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:1513)
+	at D (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:9800)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:7847)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at v.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:13940)
+	at s.z (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:17005)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:15457)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at n.acceptChunk (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11714)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11001)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at m.u (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:19093)
+	at m.acceptFrame (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:18899)
+	at a.l (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:17532)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:14879
+	at Socket.p (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:12793)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-09-13 06:53:23.614 [error] Canceled: Canceled
+	at new h (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:57382)
+	at i.O (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:8289)
+	at r.g (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82208)
+	at r.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at u.registerCommand.description (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:80967)
+	at r.h (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82744)
+	at r.g (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81739)
+	at r.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at Object.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:21247)
+	at n.D [as value] (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1309000)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1324784)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3484)
+	at E.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at E.<anonymous> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at k (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:9652)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7585
+	at Array.map (<anonymous>)
+	at n.S (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7572)
+	at n.terminate (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7844)
+	at o.terminate (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:1513)
+	at D (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:9800)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:7847)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at v.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:13940)
+	at s.z (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:17005)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:15457)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at n.acceptChunk (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11714)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11001)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at m.u (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:19093)
+	at m.acceptFrame (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:18899)
+	at a.l (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:17532)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:14879
+	at Socket.p (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:12793)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-09-13 06:53:23.614 [error] Canceled: Canceled
+	at new h (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:57382)
+	at i.O (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:8289)
+	at r.g (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82208)
+	at r.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at u.registerCommand.description (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:80967)
+	at r.h (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82744)
+	at r.g (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81739)
+	at r.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at Object.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:21247)
+	at n.D [as value] (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1309000)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1324784)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3484)
+	at E.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at E.<anonymous> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at k (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:9652)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7585
+	at Array.map (<anonymous>)
+	at n.S (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7572)
+	at n.terminate (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7844)
+	at o.terminate (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:1513)
+	at D (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:9800)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:7847)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at v.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:13940)
+	at s.z (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:17005)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:15457)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at n.acceptChunk (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11714)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11001)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at m.u (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:19093)
+	at m.acceptFrame (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:18899)
+	at a.l (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:17532)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:14879
+	at Socket.p (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:12793)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-09-13 06:53:23.615 [error] Canceled: Canceled
+	at new h (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:57382)
+	at i.O (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:8289)
+	at r.g (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82208)
+	at r.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at u.registerCommand.description (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:80967)
+	at r.h (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82744)
+	at r.g (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81739)
+	at r.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at Object.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:21247)
+	at n.D [as value] (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1309000)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1324784)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3484)
+	at E.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at E.<anonymous> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at k (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:9652)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7585
+	at Array.map (<anonymous>)
+	at n.S (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7572)
+	at n.terminate (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7844)
+	at o.terminate (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:1513)
+	at D (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:9800)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:7847)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at v.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:13940)
+	at s.z (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:17005)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:15457)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at n.acceptChunk (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11714)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11001)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at m.u (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:19093)
+	at m.acceptFrame (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:18899)
+	at a.l (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:17532)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:14879
+	at Socket.p (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:12793)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-09-13 06:53:23.615 [error] Canceled: Canceled
+	at new h (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:57382)
+	at i.O (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:8289)
+	at r.g (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82208)
+	at r.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at u.registerCommand.description (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:80967)
+	at r.h (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82744)
+	at r.g (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81739)
+	at r.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at Object.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:21247)
+	at set b [as b] (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/github/dist/extension.js:2:714434)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/github/dist/extension.js:2:715075
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1396602)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1324784)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3484)
+	at E.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at E.<anonymous> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at k (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:9652)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7585
+	at Array.map (<anonymous>)
+	at n.S (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7572)
+	at n.terminate (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7844)
+	at o.terminate (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:1513)
+	at D (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:9800)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:7847)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at v.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:13940)
+	at s.z (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:17005)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:15457)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at n.acceptChunk (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11714)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11001)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at m.u (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:19093)
+	at m.acceptFrame (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:18899)
+	at a.l (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:17532)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:14879
+	at Socket.p (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:12793)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-09-13 06:53:23.616 [error] Canceled: Canceled
+	at new h (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:57382)
+	at i.O (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:8289)
+	at r.g (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82208)
+	at r.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at u.registerCommand.description (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:80967)
+	at r.h (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82744)
+	at r.g (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81739)
+	at r.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at Object.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:21247)
+	at n.D [as value] (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1309000)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1324784)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3484)
+	at E.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at E.<anonymous> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at k (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:9652)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7585
+	at Array.map (<anonymous>)
+	at n.S (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7572)
+	at n.terminate (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7844)
+	at o.terminate (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:1513)
+	at D (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:9800)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:7847)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at v.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:13940)
+	at s.z (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:17005)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:15457)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at n.acceptChunk (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11714)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11001)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at m.u (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:19093)
+	at m.acceptFrame (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:18899)
+	at a.l (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:17532)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:14879
+	at Socket.p (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:12793)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-09-13 06:53:23.616 [error] Canceled: Canceled
+	at new h (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:57382)
+	at i.O (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:8289)
+	at r.g (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82208)
+	at r.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at u.registerCommand.description (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:80967)
+	at r.h (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82744)
+	at r.g (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81739)
+	at r.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at Object.executeCommand (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:21247)
+	at set b [as b] (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/github/dist/extension.js:2:714434)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/github/dist/extension.js:2:715075
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1396602)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1324784)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3484)
+	at E.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at E.<anonymous> (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at k (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:9652)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7585
+	at Array.map (<anonymous>)
+	at n.S (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7572)
+	at n.terminate (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7844)
+	at o.terminate (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:1513)
+	at D (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:9800)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:7847)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at v.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:13940)
+	at s.z (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:17005)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:15457)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at n.acceptChunk (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11714)
+	at n.value (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11001)
+	at m.w (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at m.u (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:19093)
+	at m.acceptFrame (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:18899)
+	at a.l (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:17532)
+	at /home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:14879
+	at Socket.p (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:12793)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-09-13 06:53:24.737 [error] Error: Channel has been closed
+	at i (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:118:2880)
+	at Object.trace (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:118:3145)
+	at t.$b.end (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1334778)
+	at R.Y (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1373320)
+	at async R.status (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1358536)
+2023-09-13 06:53:24.738 [error] Error: Channel has been closed
+	at i (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:118:2880)
+	at Object.trace (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:118:3145)
+	at t.$b.end (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1334778)
+	at R.Y (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1373320)
+	at async R.status (/home/maina/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1358536)

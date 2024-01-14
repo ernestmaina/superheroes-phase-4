@@ -1,0 +1,15 @@
+2023-09-13 05:44:24.527 [info] Log level: Info
+2023-09-13 05:44:24.527 [info] Validating found git in: "git"
+2023-09-13 05:44:24.527 [info] Using git "2.42.0" from "git"
+2023-09-13 05:44:24.527 [info] > git rev-parse --show-toplevel [21ms]
+2023-09-13 05:44:24.527 [info] > git rev-parse --git-dir --git-common-dir [152ms]
+2023-09-13 05:44:24.527 [info] Open repository: /home/maina/phase-0-git-basics-lab
+2023-09-13 05:44:24.855 [info] > git rev-parse --show-toplevel [288ms]
+2023-09-13 05:44:24.857 [info] > git config --get commit.template [318ms]
+2023-09-13 05:44:24.993 [info] > git rev-parse --show-toplevel [103ms]
+2023-09-13 05:44:25.002 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2023-09-13 05:44:25.146 [info] > git status -z -uall [119ms]
+2023-09-13 05:44:25.448 [info] > git check-ignore -v -z --stdin [41ms]
+2023-09-13 05:44:25.450 [info] > git config --get commit.template [198ms]
+2023-09-13 05:44:25.481 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-09-13 05:44:25.509 [info] > git status -z -uall [3ms]

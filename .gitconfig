@@ -1,0 +1,9 @@
+[color]
+	ui = true
+[user]
+	name = ErnestMaina
+	email = ernestmaina@student.moringaschool.com
+[init]
+	defaultBranch = main
+[credential]
+	helper = cache~

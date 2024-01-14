@@ -1,0 +1,67 @@
+2023-09-13 05:44:18.151 [info] 
+
+
+
+
+2023-09-13 05:44:18.215 [info] Extension host agent started.
+2023-09-13 05:44:18.400 [info] [127.0.0.1][a67837de][ManagementConnection] New connection established.
+2023-09-13 05:44:20.672 [info] [127.0.0.1][735c7e8e][ExtensionHostConnection] New connection established.
+2023-09-13 05:44:22.261 [info] [127.0.0.1][735c7e8e][ExtensionHostConnection] <75701> Launched Extension Host Process.
+2023-09-13 05:44:53.888 [info] [127.0.0.1][a67837de][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-13 05:44:53.890 [error] Error: Throttler is disposed
+    at c.queue (/home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-13 05:44:53.893 [error] Error: Throttler is disposed
+    at c.queue (/home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-13 05:44:53.894 [error] Error: Throttler is disposed
+    at c.queue (/home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-13 05:44:53.894 [error] Error: Throttler is disposed
+    at c.queue (/home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-13 05:44:53.894 [error] Error: Throttler is disposed
+    at c.queue (/home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-13 05:44:53.895 [error] Error: Throttler is disposed
+    at c.queue (/home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-13 05:44:53.895 [error] Error: Throttler is disposed
+    at c.queue (/home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-13 05:44:53.896 [error] Error: Throttler is disposed
+    at c.queue (/home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/maina/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-13 05:44:59.110 [info] [127.0.0.1][735c7e8e][ExtensionHostConnection] <75701> Extension Host Process exited with code: 0, signal: null.
